@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Link Scraper GUI">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4da3ff"></stop>
+      <stop offset="100%" stop-color="#2dd4bf"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" rx="64" fill="url(#g)"></rect>
+  <!-- Chain left -->
+  <path d="M170 330a80 80 0 0 1 0-113l62-62a80 80 0 0 1 113 0" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"></path>
+  <path d="M212 288a20 20 0 0 1 0-28l62-62a20 20 0 0 1 28 0" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"></path>
+  <!-- Chain right -->
+  <path d="M342 182a80 80 0 0 1 0 113l-62 62a80 80 0 0 1-113 0" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"></path>
+  <path d="M300 224a20 20 0 0 1 0 28l-62 62a20 20 0 0 1-28 0" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"></path>
+  <!-- Small page corner to hint 'scrape' -->
+  <path d="M384 96h-96a16 16 0 0 0-16 16v48h80a16 16 0 0 0 16-16z" fill="#ffffff" opacity="0.9"></path>
+</svg>
